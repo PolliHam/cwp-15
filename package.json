@@ -1,0 +1,13 @@
+{
+  "name": "cwp-10",
+  "author": "Andrei Chayeuski",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "geolib": "^2.0.24",
+    "jsonwebtoken": "^8.4.0",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0",
+    "tedious": "^2.6.4"
+  }
+}
